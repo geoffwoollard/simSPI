@@ -10,7 +10,6 @@ dependencies:
   - flake8-docstrings
   - flake8-import-order
   - h5py
-  - mdtraj
   - mrcfile
   - numba
   - numpy
